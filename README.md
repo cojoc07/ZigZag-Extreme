@@ -1,17 +1,17 @@
-# ZigZag Extreme - joc Unity realizat pentru dispozitive Android, dar compatibil cu diverse platforme, inclusiv PC.
-> Aplicatia este realizata folosind engine-ul Unity. 
-> Script-urile ce realizeaza logica sunt realizate in limbajul C# folosind Visual Studio
+# ZigZag Extreme - Unity game designed for Android devices, also compatible with other platforms, such as the PC.
+> The application was created using the Unity Engine. 
+> The scripts used for the game logic are written in C# using Visual Studio.
 
 ![](header.png)
 
-## Versiuni Android compatibile
+## Minimum Android version
 
 Android 4.4+
 
-## Descriere
+## Summary
 
-Jocul are o perspectiva izometrica si scopul este de a rezista cat mai mult de marginea zidului, in timp ce se evita obstacole si se aduna diamante. 
-Dificultatea creste progresiv la fel si viteza de deplasare.
+The game uses an isometric perspective and the goal is to stay alive for as long as possible by running along the edge of walls, avoiding obstacles and collecting diamonds along the way.
+The difficulty increases with the distance travelled.
 
 ## Meta
 
